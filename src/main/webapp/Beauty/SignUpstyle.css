@@ -1,0 +1,149 @@
+
+        /* Global Styles */
+       /* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+body {
+  background: #111;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Container */
+.signup-container {
+  background: #1a1a1a;
+  padding: 40px 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(229, 9, 20, 0.5);
+  width: 420px;
+}
+
+/* Header */
+.signup-header {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.signup-icon {
+  font-size: 2.5rem;
+  color: #e50914;
+  margin-bottom: 10px;
+}
+
+.signup-title {
+  font-size: 1.8rem;
+  color: #fff;
+  margin-bottom: 8px;
+}
+
+.signup-subtitle {
+  font-size: 0.9rem;
+  color: #bbb;
+}
+
+/* Form */
+.signup-form .form-group {
+  margin-bottom: 18px;
+}
+
+.signup-form label {
+  display: block;
+  font-size: 0.9rem;
+  color: #ddd;
+  margin-bottom: 6px;
+}
+
+.input-wrapper {
+  position: relative;
+}
+
+.input-icon {
+  position: absolute;
+  top: 50%;
+  left: 12px;
+  transform: translateY(-50%);
+  color: #e50914;
+  font-size: 0.9rem;
+}
+
+.form-input,
+.form-textarea,
+.form-select {
+  width: 100%;
+  padding: 12px 12px 12px 36px;
+  border: 1px solid #333;
+  border-radius: 8px;
+  background: #000;
+  color: #fff;
+  font-size: 0.95rem;
+  outline: none;
+  transition: 0.3s;
+}
+
+.form-input:focus,
+.form-textarea:focus,
+.form-select:focus {
+  border-color: #e50914;
+  box-shadow: 0 0 6px rgba(229, 9, 20, 0.7);
+}
+
+.form-textarea {
+  resize: none;
+  height: 80px;
+}
+
+/* Two-column row */
+.form-row {
+  display: flex;
+  gap: 15px;
+}
+
+.form-col {
+  flex: 1;
+}
+
+/* Signup Button */
+.signup-btn {
+  width: 100%;
+  padding: 12px;
+  background: #e50914;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: 0.3s;
+}
+
+.signup-btn:hover {
+  background: #ff1e2d;
+  box-shadow: 0 0 12px rgba(229, 9, 20, 0.8);
+}
+
+/* Login link */
+.login-link {
+  text-align: center;
+  margin-top: 18px;
+  font-size: 0.9rem;
+  color: #bbb;
+}
+
+.login-link a {
+  color: #e50914;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.login-link a:hover {
+  text-decoration: underline;
+}
