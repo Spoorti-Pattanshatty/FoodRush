@@ -29,4 +29,4 @@ Inspired by popular food delivery platforms like Swiggy, Zomato, and Uber Eats, 
 
 
 ```bash
-
+git clone https://github.com/Spoorti-Pattanshatty/FoodRush.git
