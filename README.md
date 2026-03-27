@@ -27,6 +27,14 @@ FoodRush is a full-stack restaurant ordering web application built with Java, JS
 
 Inspired by popular food delivery platforms like Swiggy, Zomato, and Uber Eats, aiming to provide a simple and efficient online food ordering experience.
 
+screenshots:
+
+<img width="1889" height="895" alt="Screenshot 2026-03-27 123841" src="https://github.com/user-attachments/assets/85f1be21-0b3b-46b2-85d2-4c23139adfa0" />
+
+
+
+
+
 
 ```bash
 git clone https://github.com/Spoorti-Pattanshatty/FoodRush.git
