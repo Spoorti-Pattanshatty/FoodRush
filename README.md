@@ -33,7 +33,8 @@ git clone https://github.com/Spoorti-Pattanshatty/FoodRush.git
 
 Screenshots:
 
-git clone https://github.com/Spoorti-Pattanshatty/FoodRush.git
+<img width="1885" height="906" alt="image" src="https://github.com/user-attachments/assets/1312034a-4a05-4ce9-b5aa-5a88a7991070" />
+
 
 
 
